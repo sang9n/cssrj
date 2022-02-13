@@ -27,4 +27,3 @@ $ sudo wget http://repo.mosquitto.org/debian/mosquitto-buster.list
 $ sudo apt-get update
 $ sudo apt-get install -y mosquitto
 ```
-[Adobe Scan 2022년 2월 13일.pdf](https://github.com/sang9n/cssrj/files/8055179/Adobe.Scan.2022.2.13.pdf)
